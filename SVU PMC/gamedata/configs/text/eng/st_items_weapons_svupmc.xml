@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+
+
+<string_table>
+
+	<string id="st_wpn_svu_pmc">
+		<text>SVU PMC</text>
+	</string>
+	<string id="st_wpn_svu_pmc_descr">
+		<text>An exceedingly rare gun built in the zone. This weapon has been modified using a tactical chasis that has a combination of picatinny rails and M-LOK attachment points for further personalization. Internal modifications were done to give this weapon a high rate of fire, as well as an automatic firing mod for supression of enemy stalkers.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Canted NcStar mount with Deltapoint red dot sight installed \n
+		%c[d_purple] • %c[ui_gray_2] Low Profile Magpul forgrip \n</text>
+	</string>
+	
+</string_table>
